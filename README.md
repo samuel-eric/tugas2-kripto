@@ -1,6 +1,6 @@
-# Tugas 1 Kriptografi dan Koding
+# Tugas 2 Kriptografi dan Koding
 
-## Program Cipher Klasik 
+## Program Modifikasi RC4 
 
 Cara menjalankan: 
 ```
